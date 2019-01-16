@@ -1,6 +1,7 @@
 # Websci-friendship-paradox-
 
-#first problem.
+# first problem:
+
 Determine if the friendship paradox holds for my Facebook
 account.* Compute the mean, standard deviation, and median of the
 number of friends that my friends have.  Create a graph of the
