@@ -1,6 +1,7 @@
 # Websci-friendship-paradox-
 
-# Determine if the friendship paradox holds for my Facebook
+#first problem.
+Determine if the friendship paradox holds for my Facebook
 account.* Compute the mean, standard deviation, and median of the
 number of friends that my friends have.  Create a graph of the
 number of friends (y-axis) and the friends themselves, sorted by
@@ -18,7 +19,7 @@ deviation and median calculations to get the requirements.
 The code with graphs in Report PDF and python file inQ2
 
 
-# Then we have a second problem:
+# Second problem:
 
 Determine if the friendship paradox holds for your Twitter account.
 Since Twitter is a directed graph, use "followers" as value you measure
